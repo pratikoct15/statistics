@@ -1,3 +1,10 @@
+//Input Format
+//The first line contains an integer, N, denoting the number of elements in the array. 
+//The second line contains N space-separated integers describing the array's elements.
+//Sample Input
+//10
+//64630 11735 14216 99233 14470 4978 73429 38120 51135 67060
+
 function processData(input) {
     //Enter your code here
     var temp = input.split('\n');
