@@ -1,3 +1,14 @@
+//Input Format
+
+//The first line contains an integer, N, denoting the number of elements in arrays X(elements) and W(weights). 
+//The second line contains N space-separated integers describing the respective elements of array X. 
+//The third line contains N space-separated integers describing the respective elements of array W.
+
+//Sample Input
+//5
+//10 40 30 50 20
+//1 2 3 4 5
+
 function processData(input) {
     var temp = input.split('\n');
     var n = temp[0];
